@@ -46,12 +46,12 @@ outputs:
       - layer: B.Cu
       - layer: Dwgs.User
 
-  - name: "interactive_bom"
-    comment: "Interactive Bill of Materials"
-    type: ibom
-    dir: "BOM"
-    options:
-      blacklist: "DNF*"
+  # - name: "interactive_bom"
+  #   comment: "Interactive Bill of Materials"
+  #   type: ibom
+  #   dir: "BOM"
+  #   options:
+  #     blacklist: "DNF*"
 
   - name: pcb_top_g
     comment: "Renders - top (green)"
@@ -74,10 +74,3 @@ outputs:
       show_components: none
       dpi: 600
 
-  - name: step
-    comment: "Renders - 3D model (STEP)"
-    type: step
-    dir: "Renders"
-    options:
-      metric_units: true
-      origin: 85,66.2
