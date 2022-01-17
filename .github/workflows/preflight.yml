@@ -44,5 +44,5 @@ jobs:
       - uses: INTI-CMNB/KiBot@v1_k6
         with:
           config: .kibot/preflight.kibot.yaml
-          schema: ${{ github.event.repository.name }}.sch
+          schema: ${{ github.event.repository.name }}.kicad_sch
           board: ${{ github.event.repository.name }}.kicad_pcb

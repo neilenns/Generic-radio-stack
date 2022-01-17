@@ -99,7 +99,7 @@ jobs:
         with:
           config: .kibot/documentation-only.kibot.yaml
           dir: ${{ env.OutputFolder }}
-          schema: ${{ github.event.repository.name }}.sch
+          schema: ${{ github.event.repository.name }}.kicad_sch
           board: ${{ github.event.repository.name }}.kicad_pcb
 
       # Archive all the artifacts from output and attach to the action's results.
