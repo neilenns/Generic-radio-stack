@@ -1765,7 +1765,7 @@
     (property "Value" "1k" (id 1) (at 33.02 139.6999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 30.48 138.43 0)
+    (property "Footprint" "Generic-radio-stack:Perfect_0402" (id 2) (at 30.48 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 30.48 138.43 0)
@@ -1828,7 +1828,7 @@
     (uuid 43a75f12-bfdc-42a6-8217-8dc8c84ffebc)
     (property "Reference" "R9" (id 0) (at 203.2 100.33 90))
     (property "Value" "1k" (id 1) (at 203.2 102.87 90))
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 203.2 105.41 0)
+    (property "Footprint" "Generic-radio-stack:Perfect_0402" (id 2) (at 203.2 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 203.2 105.41 0)
@@ -1967,7 +1967,7 @@
     (property "Value" "10uF" (id 1) (at 142.24 30.4862 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 139.7 29.21 0)
+    (property "Footprint" "Generic-radio-stack:Perfect_0402" (id 2) (at 139.7 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 139.7 29.21 0)
@@ -2016,7 +2016,7 @@
     (uuid 8b82b88d-38db-4a0e-b547-07813053bb44)
     (property "Reference" "R7" (id 0) (at 203.2 85.09 90))
     (property "Value" "1k" (id 1) (at 203.2 87.63 90))
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 203.2 90.17 0)
+    (property "Footprint" "Generic-radio-stack:Perfect_0402" (id 2) (at 203.2 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 203.2 90.17 0)
@@ -2064,7 +2064,7 @@
     (uuid 9106afe3-401f-409b-a81b-2962afafe459)
     (property "Reference" "R8" (id 0) (at 203.2 92.71 90))
     (property "Value" "1k" (id 1) (at 203.2 95.25 90))
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 203.2 97.79 0)
+    (property "Footprint" "Generic-radio-stack:Perfect_0402" (id 2) (at 203.2 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 203.2 97.79 0)
@@ -2079,7 +2079,7 @@
     (uuid a2e29646-5a6b-48cc-86c0-b4fe7250af6c)
     (property "Reference" "R6" (id 0) (at 203.2 77.47 90))
     (property "Value" "1k" (id 1) (at 203.2 80.01 90))
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 203.2 82.55 0)
+    (property "Footprint" "Generic-radio-stack:Perfect_0402" (id 2) (at 203.2 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 203.2 82.55 0)
@@ -2134,7 +2134,7 @@
     (property "Value" "1k" (id 1) (at 33.02 120.6499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 30.48 119.38 0)
+    (property "Footprint" "Generic-radio-stack:Perfect_0402" (id 2) (at 30.48 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 30.48 119.38 0)
@@ -2172,7 +2172,7 @@
     (property "Value" "1k" (id 1) (at 57.15 139.6999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 54.61 138.43 0)
+    (property "Footprint" "Generic-radio-stack:Perfect_0402" (id 2) (at 54.61 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 54.61 138.43 0)
@@ -2191,7 +2191,7 @@
     (property "Value" "10uF" (id 1) (at 116.84 30.4862 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 114.3 29.21 0)
+    (property "Footprint" "Generic-radio-stack:Perfect_0402" (id 2) (at 114.3 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 114.3 29.21 0)
@@ -2294,7 +2294,7 @@
     (property "Value" "1k" (id 1) (at 57.15 120.6499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 54.61 119.38 0)
+    (property "Footprint" "Generic-radio-stack:Perfect_0402" (id 2) (at 54.61 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 54.61 119.38 0)
@@ -2365,7 +2365,7 @@
     (property "Value" "1k" (id 1) (at 156.21 30.4799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 153.67 29.21 0)
+    (property "Footprint" "Generic-radio-stack:Perfect_0402" (id 2) (at 153.67 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 153.67 29.21 0)
@@ -2986,100 +2986,100 @@
       (reference "#PWR062") (unit 1) (value "+5V") (footprint "")
     )
     (path "/d3d3f210-8cfd-4137-9520-2efce5c3d157"
-      (reference "C1") (unit 1) (value "10uF") (footprint "")
+      (reference "C1") (unit 1) (value "10uF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/7409e27c-f398-48b4-a6ea-2c5341043760"
-      (reference "C2") (unit 1) (value "10uF") (footprint "")
+      (reference "C2") (unit 1) (value "10uF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/539ff21e-64a5-4d0a-a3c6-87ad104f3729/d750f882-fed7-4205-ac96-eabc978309b3"
-      (reference "C3") (unit 1) (value "10uF") (footprint "")
+      (reference "C3") (unit 1) (value "10uF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/539ff21e-64a5-4d0a-a3c6-87ad104f3729/23401e06-9926-4729-b415-171f0c784bf7"
-      (reference "C4") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C4") (unit 1) (value "100nF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/ff2dd89a-1e5c-4ec7-9a7f-6adf3b029a6f/d750f882-fed7-4205-ac96-eabc978309b3"
-      (reference "C5") (unit 1) (value "10uF") (footprint "")
+      (reference "C5") (unit 1) (value "10uF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/ff2dd89a-1e5c-4ec7-9a7f-6adf3b029a6f/23401e06-9926-4729-b415-171f0c784bf7"
-      (reference "C6") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C6") (unit 1) (value "100nF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/4363abcf-abbc-4cb7-ae3e-1e702fe15266/d750f882-fed7-4205-ac96-eabc978309b3"
-      (reference "C7") (unit 1) (value "10uF") (footprint "")
+      (reference "C7") (unit 1) (value "10uF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/4363abcf-abbc-4cb7-ae3e-1e702fe15266/23401e06-9926-4729-b415-171f0c784bf7"
-      (reference "C8") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C8") (unit 1) (value "100nF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/000ffa68-f27b-487e-bf44-292370c521d9/d750f882-fed7-4205-ac96-eabc978309b3"
-      (reference "C9") (unit 1) (value "10uF") (footprint "")
+      (reference "C9") (unit 1) (value "10uF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/000ffa68-f27b-487e-bf44-292370c521d9/23401e06-9926-4729-b415-171f0c784bf7"
-      (reference "C10") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C10") (unit 1) (value "100nF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/2e5c4ef1-cb6e-4270-95ba-77b5de32d702/ec8a5668-59ce-4359-942f-f1b972c859b7"
-      (reference "C11") (unit 1) (value "10uF") (footprint "")
+      (reference "C11") (unit 1) (value "10uF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/2e5c4ef1-cb6e-4270-95ba-77b5de32d702/379d3de4-ae50-4c10-947d-0c87ebbb34fb"
-      (reference "C12") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C12") (unit 1) (value "100nF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/bf3a9b3c-abc7-4b82-902f-552a897a6843/ec8a5668-59ce-4359-942f-f1b972c859b7"
-      (reference "C13") (unit 1) (value "10uF") (footprint "")
+      (reference "C13") (unit 1) (value "10uF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/bf3a9b3c-abc7-4b82-902f-552a897a6843/379d3de4-ae50-4c10-947d-0c87ebbb34fb"
-      (reference "C14") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C14") (unit 1) (value "100nF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/80110ac9-349b-47a7-b140-5a397271e81a/ec8a5668-59ce-4359-942f-f1b972c859b7"
-      (reference "C15") (unit 1) (value "10uF") (footprint "")
+      (reference "C15") (unit 1) (value "10uF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/80110ac9-349b-47a7-b140-5a397271e81a/379d3de4-ae50-4c10-947d-0c87ebbb34fb"
-      (reference "C16") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C16") (unit 1) (value "100nF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/16e2fb08-cd68-4ab7-830d-71b5c8ec71f2/ec8a5668-59ce-4359-942f-f1b972c859b7"
-      (reference "C17") (unit 1) (value "10uF") (footprint "")
+      (reference "C17") (unit 1) (value "10uF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/16e2fb08-cd68-4ab7-830d-71b5c8ec71f2/379d3de4-ae50-4c10-947d-0c87ebbb34fb"
-      (reference "C18") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C18") (unit 1) (value "100nF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/4c5b0122-e46a-44a7-9b2d-7b1db33ea3c6"
-      (reference "C19") (unit 1) (value "27p") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C19") (unit 1) (value "27p") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/bc5ca8d8-7f2a-415b-a4c9-db4dc72d3f15"
-      (reference "C20") (unit 1) (value "27p") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C20") (unit 1) (value "27p") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/6329bafb-b6ed-4e64-84c3-92dc077d072f"
-      (reference "C21") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C21") (unit 1) (value "100nF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/0c0fc017-2dd8-47b9-ae86-a8fb1552ff88"
-      (reference "C22") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C22") (unit 1) (value "100nF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/8bac4de3-bc17-4ff4-b564-66126028ea3e"
-      (reference "C23") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C23") (unit 1) (value "1uF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/adf39450-5d0f-476d-8865-bf413e2735e8"
-      (reference "C24") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C24") (unit 1) (value "1uF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/bd675073-47b5-49b9-94b1-6df4f8d2fa0d"
-      (reference "C25") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C25") (unit 1) (value "100nF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/8cfb4217-4d07-47bd-84f8-5afcb10e2e29"
-      (reference "C26") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C26") (unit 1) (value "100nF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/688bba9f-a221-497a-8d05-9f8d7c513226"
-      (reference "C27") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C27") (unit 1) (value "100nF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/052734f2-1cd1-4da1-b952-f55b3586337f"
-      (reference "C28") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C28") (unit 1) (value "100nF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/a089dcf0-8bbd-4d60-89c8-1a2ddc25c28d"
-      (reference "C29") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C29") (unit 1) (value "100nF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/5287bb8d-4628-46c0-91b6-f6a61521bde9"
-      (reference "C30") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C30") (unit 1) (value "100nF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/aead7b4b-0ebe-401d-8afd-379b1a9421a4"
-      (reference "C31") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C31") (unit 1) (value "100nF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/97f1279b-490b-4bfe-b7cc-ef12e8bf98d3"
-      (reference "C32") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C32") (unit 1) (value "100nF") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/4ede633b-6254-4392-a950-776b71955dec"
       (reference "D1") (unit 1) (value "GREEN") (footprint "LED_THT:LED_D5.0mm")
@@ -3109,118 +3109,118 @@
       (reference "J2") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/b038ddfa-077d-4444-a960-e5ba2abce719"
-      (reference "R1") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R1") (unit 1) (value "1k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/11320d7f-e79d-481c-a598-e57c0c1fb1f9"
-      (reference "R2") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R2") (unit 1) (value "1k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/f08ab610-1c6c-4331-9be7-90878f41c953"
-      (reference "R3") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R3") (unit 1) (value "1k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/c0492dce-3151-456a-8808-2bd38675061c"
-      (reference "R4") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R4") (unit 1) (value "1k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/f9a3e33c-cb70-4683-9263-92df5f4cd736"
-      (reference "R5") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R5") (unit 1) (value "1k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/a2e29646-5a6b-48cc-86c0-b4fe7250af6c"
-      (reference "R6") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R6") (unit 1) (value "1k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/8b82b88d-38db-4a0e-b547-07813053bb44"
-      (reference "R7") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R7") (unit 1) (value "1k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/9106afe3-401f-409b-a81b-2962afafe459"
-      (reference "R8") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R8") (unit 1) (value "1k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/43a75f12-bfdc-42a6-8217-8dc8c84ffebc"
-      (reference "R9") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R9") (unit 1) (value "1k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/539ff21e-64a5-4d0a-a3c6-87ad104f3729/619b8e04-385f-4c34-ad94-a3947c72404a"
-      (reference "R10") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R10") (unit 1) (value "R_Small") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/ff2dd89a-1e5c-4ec7-9a7f-6adf3b029a6f/619b8e04-385f-4c34-ad94-a3947c72404a"
-      (reference "R11") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R11") (unit 1) (value "R_Small") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/4363abcf-abbc-4cb7-ae3e-1e702fe15266/619b8e04-385f-4c34-ad94-a3947c72404a"
-      (reference "R12") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R12") (unit 1) (value "R_Small") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/000ffa68-f27b-487e-bf44-292370c521d9/619b8e04-385f-4c34-ad94-a3947c72404a"
-      (reference "R13") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R13") (unit 1) (value "R_Small") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/2e5c4ef1-cb6e-4270-95ba-77b5de32d702/4d3b53f6-696f-4c46-ba78-d12c84465e58"
-      (reference "R14") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R14") (unit 1) (value "R_Small") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/bf3a9b3c-abc7-4b82-902f-552a897a6843/4d3b53f6-696f-4c46-ba78-d12c84465e58"
-      (reference "R15") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R15") (unit 1) (value "R_Small") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/80110ac9-349b-47a7-b140-5a397271e81a/4d3b53f6-696f-4c46-ba78-d12c84465e58"
-      (reference "R16") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R16") (unit 1) (value "R_Small") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/16e2fb08-cd68-4ab7-830d-71b5c8ec71f2/4d3b53f6-696f-4c46-ba78-d12c84465e58"
-      (reference "R17") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R17") (unit 1) (value "R_Small") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e85c6510-baa3-4981-88c2-3217604e309d/c4edad36-531b-4844-993f-2bfd771d9405"
-      (reference "R18") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R18") (unit 1) (value "10k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e85c6510-baa3-4981-88c2-3217604e309d/c33837b8-dacb-4885-bfb6-19b30e1b9939"
-      (reference "R19") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R19") (unit 1) (value "10k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e85c6510-baa3-4981-88c2-3217604e309d/60ee7c48-fd05-4828-9b56-6c53d85374c4"
-      (reference "R20") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R20") (unit 1) (value "10k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e85c6510-baa3-4981-88c2-3217604e309d/b47f9107-197c-4857-a455-7d1a23245aca"
-      (reference "R21") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R21") (unit 1) (value "10k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e85c6510-baa3-4981-88c2-3217604e309d/03509684-a1d7-4912-94d4-1cfb3b131030"
-      (reference "R22") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R22") (unit 1) (value "10k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/794d17e5-b20b-4ef0-9b73-b84d6d3aa6b5/c4edad36-531b-4844-993f-2bfd771d9405"
-      (reference "R23") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R23") (unit 1) (value "10k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/794d17e5-b20b-4ef0-9b73-b84d6d3aa6b5/c33837b8-dacb-4885-bfb6-19b30e1b9939"
-      (reference "R24") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R24") (unit 1) (value "10k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/794d17e5-b20b-4ef0-9b73-b84d6d3aa6b5/60ee7c48-fd05-4828-9b56-6c53d85374c4"
-      (reference "R25") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R25") (unit 1) (value "10k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/794d17e5-b20b-4ef0-9b73-b84d6d3aa6b5/b47f9107-197c-4857-a455-7d1a23245aca"
-      (reference "R26") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R26") (unit 1) (value "10k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/794d17e5-b20b-4ef0-9b73-b84d6d3aa6b5/03509684-a1d7-4912-94d4-1cfb3b131030"
-      (reference "R27") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R27") (unit 1) (value "10k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/c2d26419-6d70-4716-92eb-42bb4fe3a11e"
-      (reference "R28") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R28") (unit 1) (value "1k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/be858831-e2a4-405a-ac69-02ed1a042c27"
-      (reference "R29") (unit 1) (value "27") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R29") (unit 1) (value "27") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/5b60e75d-85ac-4e50-badf-72e136a7fcba"
-      (reference "R30") (unit 1) (value "27") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R30") (unit 1) (value "27") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/fe98f590-74ff-4a1b-97e4-6871b434549d"
-      (reference "R31") (unit 1) (value "197") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R31") (unit 1) (value "197") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/54091c42-b0f6-4dde-be9d-f11159c4c5eb"
-      (reference "R32") (unit 1) (value "197") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R32") (unit 1) (value "197") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/5637d721-3400-4063-836e-e1f9c6016664"
-      (reference "R33") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R33") (unit 1) (value "1k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/ce1e6779-15c3-4fde-b5d9-4aa90e56b967"
-      (reference "R34") (unit 1) (value "197") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R34") (unit 1) (value "197") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/e7a6c06b-7123-410e-a160-461e133c3fff"
-      (reference "R35") (unit 1) (value "DNF") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R35") (unit 1) (value "10k") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/15b1c34e-37bd-4f1c-a085-5daf64cd5a0d"
-      (reference "R36") (unit 1) (value "310") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R36") (unit 1) (value "310") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/dafef4a2-fa90-4c5d-96fe-f9fadc39e428"
-      (reference "R37") (unit 1) (value "310") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R37") (unit 1) (value "310") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/8ae53c0d-ea57-4e23-9f74-60e33777f83b"
-      (reference "R38") (unit 1) (value "310") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R38") (unit 1) (value "310") (footprint "Generic-radio-stack:Perfect_0402")
     )
     (path "/ad3aa0c3-9ac7-4d81-ad80-b35e14121082"
       (reference "SW1") (unit 1) (value "SW_Push_LED") (footprint "Generic-radio-stack:SW_PUSH_6mm")
