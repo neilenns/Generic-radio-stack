@@ -3253,70 +3253,58 @@
       (reference "U2") (unit 1) (value "MAX7219") (footprint "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm")
     )
     (path "/539ff21e-64a5-4d0a-a3c6-87ad104f3729/d058af29-a09c-4f20-bae5-1f17c7cafadc"
-      (reference "U3") (unit 1) (value "6_digit_7_segment_display_1") (footprint "Generic-radio-stack:6 digit (3x2) 7 segment LED display")
+      (reference "U3") (unit 1) (value "6_digit_7_segment_display_1") (footprint "Generic-radio-stack:6 digit (3+3) 7 segment LED display")
     )
     (path "/ff2dd89a-1e5c-4ec7-9a7f-6adf3b029a6f/010e2452-339a-4e50-9fe7-61ed319793a0"
       (reference "U4") (unit 1) (value "MAX7219") (footprint "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm")
     )
     (path "/ff2dd89a-1e5c-4ec7-9a7f-6adf3b029a6f/d058af29-a09c-4f20-bae5-1f17c7cafadc"
-      (reference "U5") (unit 1) (value "6_digit_7_segment_display_1") (footprint "Generic-radio-stack:6 digit (3x2) 7 segment LED display")
+      (reference "U5") (unit 1) (value "6_digit_7_segment_display_1") (footprint "Generic-radio-stack:6 digit (3+3) 7 segment LED display")
     )
     (path "/4363abcf-abbc-4cb7-ae3e-1e702fe15266/010e2452-339a-4e50-9fe7-61ed319793a0"
       (reference "U6") (unit 1) (value "MAX7219") (footprint "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm")
     )
     (path "/4363abcf-abbc-4cb7-ae3e-1e702fe15266/d058af29-a09c-4f20-bae5-1f17c7cafadc"
-      (reference "U7") (unit 1) (value "6_digit_7_segment_display_1") (footprint "Generic-radio-stack:6 digit (3x2) 7 segment LED display")
+      (reference "U7") (unit 1) (value "6_digit_7_segment_display_1") (footprint "Generic-radio-stack:6 digit (3+3) 7 segment LED display")
     )
     (path "/000ffa68-f27b-487e-bf44-292370c521d9/010e2452-339a-4e50-9fe7-61ed319793a0"
       (reference "U8") (unit 1) (value "MAX7219") (footprint "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm")
     )
     (path "/000ffa68-f27b-487e-bf44-292370c521d9/d058af29-a09c-4f20-bae5-1f17c7cafadc"
-      (reference "U9") (unit 1) (value "6_digit_7_segment_display_1") (footprint "Generic-radio-stack:6 digit (3x2) 7 segment LED display")
+      (reference "U9") (unit 1) (value "6_digit_7_segment_display_1") (footprint "Generic-radio-stack:6 digit (3+3) 7 segment LED display")
     )
     (path "/2e5c4ef1-cb6e-4270-95ba-77b5de32d702/97b173f9-8b99-47f2-b3f8-fa40ee0d78ff"
       (reference "U10") (unit 1) (value "MAX7219") (footprint "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm")
     )
-    (path "/2e5c4ef1-cb6e-4270-95ba-77b5de32d702/bafbaff1-1be2-4ac8-ad5a-52f36ffccc75"
-      (reference "U11") (unit 1) (value "3_digit_7_segment_display") (footprint "Generic-radio-stack:3_digit_7_segment_LED")
-    )
-    (path "/2e5c4ef1-cb6e-4270-95ba-77b5de32d702/5a7626b8-73d4-4e3c-929f-da42f17d1668"
-      (reference "U12") (unit 1) (value "2_digit_7_segment_display") (footprint "Generic-radio-stack:2_digit_7_segment_LED")
+    (path "/2e5c4ef1-cb6e-4270-95ba-77b5de32d702/e946acad-c63e-4cf4-8145-6afad6d9737c"
+      (reference "U11") (unit 1) (value "5_digit_7_segment_display") (footprint "Generic-radio-stack:5 digit (3+2) 7 segment LED display")
     )
     (path "/bf3a9b3c-abc7-4b82-902f-552a897a6843/97b173f9-8b99-47f2-b3f8-fa40ee0d78ff"
-      (reference "U13") (unit 1) (value "MAX7219") (footprint "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm")
+      (reference "U12") (unit 1) (value "MAX7219") (footprint "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm")
     )
-    (path "/bf3a9b3c-abc7-4b82-902f-552a897a6843/bafbaff1-1be2-4ac8-ad5a-52f36ffccc75"
-      (reference "U14") (unit 1) (value "3_digit_7_segment_display") (footprint "Generic-radio-stack:3_digit_7_segment_LED")
-    )
-    (path "/bf3a9b3c-abc7-4b82-902f-552a897a6843/5a7626b8-73d4-4e3c-929f-da42f17d1668"
-      (reference "U15") (unit 1) (value "2_digit_7_segment_display") (footprint "Generic-radio-stack:2_digit_7_segment_LED")
+    (path "/bf3a9b3c-abc7-4b82-902f-552a897a6843/e946acad-c63e-4cf4-8145-6afad6d9737c"
+      (reference "U13") (unit 1) (value "5_digit_7_segment_display") (footprint "Generic-radio-stack:5 digit (3+2) 7 segment LED display")
     )
     (path "/80110ac9-349b-47a7-b140-5a397271e81a/97b173f9-8b99-47f2-b3f8-fa40ee0d78ff"
-      (reference "U16") (unit 1) (value "MAX7219") (footprint "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm")
+      (reference "U14") (unit 1) (value "MAX7219") (footprint "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm")
     )
-    (path "/80110ac9-349b-47a7-b140-5a397271e81a/bafbaff1-1be2-4ac8-ad5a-52f36ffccc75"
-      (reference "U17") (unit 1) (value "3_digit_7_segment_display") (footprint "Generic-radio-stack:3_digit_7_segment_LED")
-    )
-    (path "/80110ac9-349b-47a7-b140-5a397271e81a/5a7626b8-73d4-4e3c-929f-da42f17d1668"
-      (reference "U18") (unit 1) (value "2_digit_7_segment_display") (footprint "Generic-radio-stack:2_digit_7_segment_LED")
+    (path "/80110ac9-349b-47a7-b140-5a397271e81a/e946acad-c63e-4cf4-8145-6afad6d9737c"
+      (reference "U15") (unit 1) (value "5_digit_7_segment_display") (footprint "Generic-radio-stack:5 digit (3+2) 7 segment LED display")
     )
     (path "/16e2fb08-cd68-4ab7-830d-71b5c8ec71f2/97b173f9-8b99-47f2-b3f8-fa40ee0d78ff"
-      (reference "U19") (unit 1) (value "MAX7219") (footprint "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm")
+      (reference "U16") (unit 1) (value "MAX7219") (footprint "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm")
     )
-    (path "/16e2fb08-cd68-4ab7-830d-71b5c8ec71f2/bafbaff1-1be2-4ac8-ad5a-52f36ffccc75"
-      (reference "U20") (unit 1) (value "3_digit_7_segment_display") (footprint "Generic-radio-stack:3_digit_7_segment_LED")
-    )
-    (path "/16e2fb08-cd68-4ab7-830d-71b5c8ec71f2/5a7626b8-73d4-4e3c-929f-da42f17d1668"
-      (reference "U21") (unit 1) (value "2_digit_7_segment_display") (footprint "Generic-radio-stack:2_digit_7_segment_LED")
+    (path "/16e2fb08-cd68-4ab7-830d-71b5c8ec71f2/e946acad-c63e-4cf4-8145-6afad6d9737c"
+      (reference "U17") (unit 1) (value "5_digit_7_segment_display") (footprint "Generic-radio-stack:5 digit (3+2) 7 segment LED display")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/c7c902f0-4e72-4841-b295-8d7c9d51826a"
-      (reference "U22") (unit 1) (value "RP2040") (footprint "RP2040_minimal:RP2040-QFN-56")
+      (reference "U18") (unit 1) (value "RP2040") (footprint "RP2040_minimal:RP2040-QFN-56")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/7cb4a1d0-213c-47e5-a060-44bf4f81626e"
-      (reference "U23") (unit 1) (value "LSF0204PWR") (footprint "Package_SO:TSSOP-14_4.4x5mm_P0.65mm")
+      (reference "U19") (unit 1) (value "LSF0204PWR") (footprint "Package_SO:TSSOP-14_4.4x5mm_P0.65mm")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/1cb69e93-31d2-4739-ac5a-20277ce66a78"
-      (reference "U24") (unit 1) (value "W25Q128JVS") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
+      (reference "U20") (unit 1) (value "W25Q128JVS") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
     )
     (path "/e46d07d7-cb69-451f-8024-840ce0e84fbe/c8c9b985-23ae-4d17-9b35-8119386d7900"
       (reference "Y1") (unit 1) (value "ABLS-12.000MHZ-B4-T") (footprint "RP2040_minimal:Crystal_SMD_HC49-US")
