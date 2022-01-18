@@ -7,7 +7,7 @@
   (paper "A4")
   (title_block
     (date "2022-01-17")
-    (rev "1.0.0")
+    (rev "@version@")
   )
 
   (layers
@@ -135,10 +135,10 @@
   (gr_line (start 177.8 50.8) (end 50.8 50.8) (layer "Edge.Cuts") (width 0.1) (tstamp c1bac86f-cbf6-4c5b-b60d-c26fa73d9c09))
   (gr_line (start 177.8 127) (end 177.8 50.8) (layer "Edge.Cuts") (width 0.1) (tstamp ccc4cc25-ac17-45ef-825c-e079951ffb21))
   (gr_line (start 50.8 127) (end 177.8 127) (layer "Edge.Cuts") (width 0.1) (tstamp eed466bf-cd88-4860-9abf-41a594ca08bd))
-  (gr_text "2022-01-17" (at 76.2 81.28) (layer "F.SilkS") (tstamp 6e9883d7-9642-4425-a248-b92a09f0624c)
+  (gr_text "@date@" (at 76.2 81.28) (layer "F.SilkS") (tstamp 6e9883d7-9642-4425-a248-b92a09f0624c)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "1.0.0" (at 76.2 78.74) (layer "F.SilkS") (tstamp ae57a25c-90b2-489d-a892-baf3543d30b1)
+  (gr_text "@version@" (at 76.2 78.74) (layer "F.SilkS") (tstamp ae57a25c-90b2-489d-a892-baf3543d30b1)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "" (at 76.2 76.2) (layer "F.SilkS") (tstamp b0b4c3cb-e7ea-49c0-8162-be3bbab3e4ec)
