@@ -454,6 +454,10 @@
     [
       "794d17e5-b20b-4ef0-9b73-b84d6d3aa6b5",
       "Dual encoder1"
+    ],
+    [
+      "e46d07d7-cb69-451f-8024-840ce0e84fbe",
+      "RP2040"
     ]
   ],
   "text_variables": {}
